@@ -1,4 +1,4 @@
-# assignment_2
+# Assignment_2
 A comprehensive Data Science capstone project that investigates the correlation between educational attainment and national wealth. This interactive dashboard, built with Python, Streamlit, and SQLite3, analyzes historical trends to demonstrate how literacy rates influence GDP growth across different global entities.
 
 
